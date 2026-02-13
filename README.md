@@ -1,3 +1,5 @@
+# SkidClub Roblox Offset Dumper
+
 A simple pattern scanner that dumps memory offsets from Roblox using RIP-relative calculation.
 
 **Features:**
