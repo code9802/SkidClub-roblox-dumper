@@ -2,6 +2,7 @@
 
 A simple pattern scanner that dumps memory offsets from Roblox using RIP-relative calculation.
 
+
 **Features:**
 -- Dumps 26 working Roblox offsets
 
