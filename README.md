@@ -11,6 +11,7 @@ A simple pattern scanner that dumps memory offsets from Roblox using RIP-relativ
 
 -- Outputs to skidclub_offsets.txt
 
+
 **How to Use:**
 
 Open Roblox
@@ -20,6 +21,7 @@ Run the dumper as Administrator
 Wait for scan to complete
 
 Find offsets in skidclub_offsets.txt
+
 
 **Build Instructions:**
 
